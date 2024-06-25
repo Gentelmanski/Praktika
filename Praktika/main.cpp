@@ -49,6 +49,29 @@ int main()
     }
 	*/
 
+    //Прямоугольник
+    /*
+    double side1, side2, side3, side4;
+	cout << "Enter 4 sides\n";
+	cin >> side1;
+	cin >> side2;
+	cin >> side3;
+	cin >> side4;
+
+	//Проверка что все числа больше 0 и равество диагоналей 
+	if (((side1 >= 0) || (side2 >= 0) || (side3 >= 0) || (side4 >= 0)) && ((side1 * side1 + side2 * side2) == (side3 * side3 + side4 * side4))) {
+		Rectangle rectangle(side1, side2, side3, side4);
+		cout <<"Perimetr - " << rectangle.calculatePerimetr() << endl;
+		cout << "Area - " << rectangle.calculateArea() << endl;
+		cout << "Side 1 - " << rectangle.getSide1() << " sm\n";
+		cout << "Side 2 - " << rectangle.getSide2() << " sm\n";
+		cout << "Side 3 - " << rectangle.getSide3() << " sm\n";
+		cout << "Side 4 - " << rectangle.getSide4() << " sm\n";
+	}
+	else {
+		cout << "Incorrect data";
+	}
+    */
 	return 0;
 
 }//потом настроим взаимодейстиве между классами 
