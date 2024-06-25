@@ -8,28 +8,9 @@ int main()
     //ЧТОБЫ ЧТО-ТО ПРОВЕРИТЬ, ТО ПРОСТО СНЕМИТЕ КОМЕННТАРИИ "/**/" И ЗАПУСКАЙТЕ
 
 {	/*
-	//яицажопы
 
-    //ОКРУЖНОСТЬ Я ПИДАРАС
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//ZZZZZZZZZZZZZZZZZZ
-	//гавноsadasdsdsdsdsdsssdsds
+    //ОКРУЖНОСТЬ
+	
 	double rad;
 	cout << "Enter radius" << endl;
 	cin >> rad;
@@ -89,7 +70,6 @@ int main()
 		cout << "Incorrect data";
 	}
     */
-	int qwe;
 	return 0;
 
 }//потом настроим взаимодейстиве между классами 
