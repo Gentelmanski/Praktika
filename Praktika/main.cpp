@@ -15,4 +15,4 @@ int main()
 	cout << circle.calculateArea() << " - Area of circle" << endl;
 	return 0;
 
-}
+}//потом настроим взаимодейстиве между классами 
