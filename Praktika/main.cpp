@@ -12,7 +12,7 @@ int main()
 
     //ОКРУЖНОСТЬ
 
-	zqwffffffffffffffffffffffffffffffffffffffffffffff
+	//гавноsadasdsd
 	double rad;
 	cout << "Enter radius" << endl;
 	cin >> rad;
