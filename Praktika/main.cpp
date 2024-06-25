@@ -10,8 +10,25 @@ int main()
 {	/*
 	//яицажопы
 
-    //ОКРУЖНОСТЬ
-
+    //ОКРУЖНОСТЬ Я ПИДАРАС
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
+	//ZZZZZZZZZZZZZZZZZZ
 	//гавноsadasdsdsdsdsdsssdsds
 	double rad;
 	cout << "Enter radius" << endl;
@@ -72,6 +89,7 @@ int main()
 		cout << "Incorrect data";
 	}
     */
+	int qwe;
 	return 0;
 
 }//потом настроим взаимодейстиве между классами 
