@@ -185,7 +185,7 @@ int main() {
 	cin >> side1;
 	cin >> side2;
 	cin >> side3;
-	cin >> side4;                                     /hui/
+	cin >> side4;                                     
 
 	//Проверка что все числа больше 0 и равество диагоналей 
 	if (((side1 >= 0) || (side2 >= 0) || (side3 >= 0) || (side4 >= 0)) && ((side1 * side1 + side2 * side2) == (side3 * side3 + side4 * side4))) {
