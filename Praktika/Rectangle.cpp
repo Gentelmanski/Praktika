@@ -1,28 +1,26 @@
 #include "Rectangle.h"
-#include <cmath>
+#include <iostream>
 
-Rectangle::Rectangle(double s1, double s2, double s3, double s4) : side1(s1), side2(s2), side3(s3), side4(s4) {}
+using namespace std;
 
-double Rectangle::calculatePerimetr() {
-	return side1 + side2 + side3 + side4;
-}
+Rectangle::Rectangle(double l, double w) : length(l), width(w) {}
 
 double Rectangle::calculateArea() {
-	return side1 * side2;
+	return length * width;
 }
 
-double Rectangle::getSide1() {
-	return side1;
+double Rectangle::calculatePerimeter() {
+	return 2 * (length + width);
 }
 
-double Rectangle::getSide2() {
-	return side2;
+void Rectangle::printCorners() {
+	cout << "Rectangle has all right angles (90 degrees each)." << endl;
 }
 
-double Rectangle::getSide3() {
-	return side3;
+double Rectangle::getLength() {
+	return length;
 }
 
-double Rectangle::getSide4() {
-	return side4;
+double Rectangle::getWidth() {
+	return width;
 }

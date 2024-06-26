@@ -14,8 +14,12 @@ public:
 
 	double calculateСorner3(double, double, double);
 
+	double getSide1();
+
+	double getSide2();
+
+	double getSide3();
+
 private:
 	double side1, side2, side3;
 };
-
-// возможно потребуются геттеры для получения сторон тругольника

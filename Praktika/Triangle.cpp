@@ -24,3 +24,15 @@ double Triangle::calculate—orner2(double side1, double side2, double side3) {
 double Triangle::calculate—orner3(double side1, double side2, double side3) {
 	return acos((side1 * side1 + side3 * side3 - side2 * side2) / (2 * side1 * side3));
 }
+
+double Triangle::getSide1() {
+	return side1;
+}
+
+double Triangle::getSide2() {
+	return side2;
+}
+
+double Triangle::getSide3() {
+	return side3;
+}
