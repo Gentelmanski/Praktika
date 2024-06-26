@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Circle">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACCCAAAAAAAAAAAAAAAAgAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Circle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAACAAAEAAAAQEAAAAAAAAAgAAAAAIAAAAEAAAA=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Triangle">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACAACAAAQBIABAAAAAAAAAAAAAAA4AAAAAAAQAAA=</HashCode>
+      <FileName>Triangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parallelogram">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAAkQAAAAAAAAAAAAAQAAAAIAAAAEAAAA=</HashCode>
+      <FileName>Parallelogram.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadrilateral">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAAAA=</HashCode>
+      <FileName>Quadrilateral.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trapezoid">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAKAAAQAIQAAAAAAAAIAAAAQAEAAIAAAAEYABA=</HashCode>
+      <FileName>Trapezoid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
