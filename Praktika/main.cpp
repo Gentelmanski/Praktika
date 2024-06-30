@@ -93,10 +93,17 @@ void rect() {
 
 }
 
-void boba() {
-	cout << '\n' << "Выберите фигуру: " << '\n' << '\n';
+void line() {
+	cout << "=======================\n";
+}
 
-	cout << "1. Круг " << '\n' << "2. Параллелограмм " << '\n' << "3. Прямоугольник " << '\n' << "4. Треугольник " << '\n' << '\n';
+void interface() {
+
+	cout << "Выберите фигуру: \n";
+
+	cout << "1. Круг\n" << "2. Параллелограмм\n" << "3. Прямоугольник\n" << "4. Треугольник\n";
+
+	line();
 
 	int choice;
 
@@ -105,31 +112,27 @@ void boba() {
 
 	switch (choice) {
 	case 1:
+		cout << "\033[2J\033[1;1H";
 		circle();
 		break;
 	case 2:
+		cout << "\033[2J\033[1;1H";
 		paral();
 		break;
 	case 3:
+		cout << "\033[2J\033[1;1H";
 		rect();
 		break;
 	case 4:
+		cout << "\033[2J\033[1;1H";
 		triangl();
 		break;
 	}
 }
 
 int main() {
-
 	setlocale(LC_ALL, "Russian");
-
-	int raknagore = 1;
-	int svisnet = 0;
-
-	int b;
-	while (raknagore != svisnet) {
-		boba();
-	}
+	interface();
 	return 0;
 }
 
