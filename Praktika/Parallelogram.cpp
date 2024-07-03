@@ -14,7 +14,7 @@ double Parallelogram::calculatePerimeter() {
 }
 
 void Parallelogram::printCorners() {
-	cout << "Parallelogram has opposite angles of equal measure." << endl;
+	cout << "”глы - у параллелограмма противоположные углы равны" << endl;
 }
 
 double Parallelogram::getBase() {

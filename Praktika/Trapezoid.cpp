@@ -14,7 +14,7 @@ double Trapezoid::calculatePerimeter() {
 }
 
 void Trapezoid::printCorners() {
-	cout << "Trapezoid doesn't have fixed angles." << endl;
+	cout << "”глы - у трпеции все углы различны" << endl;
 }
 
 double Trapezoid::getBase1() {

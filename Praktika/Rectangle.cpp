@@ -14,7 +14,7 @@ double Rectangle::calculatePerimeter() {
 }
 
 void Rectangle::printCorners() {
-	cout << "Rectangle has all right angles (90 degrees each)." << endl;
+	cout << "”глы - у пр€моугольника все углы по 90 градусов" << endl;
 }
 
 double Rectangle::getLength() {
