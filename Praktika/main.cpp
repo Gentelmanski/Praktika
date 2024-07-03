@@ -1,10 +1,6 @@
 ﻿#include <iostream>
 #include <stdlib.h>
-#include "Circle.h"
-#include "Parallelogram.h"
-#include "Triangle.h"
-#include "Rectangle.h"
-#include "Trapezoid.h"
+#include "Pracktika.h"
 
 using namespace std;
 

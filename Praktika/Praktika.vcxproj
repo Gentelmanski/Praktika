@@ -138,6 +138,7 @@
   <ItemGroup>
     <ClInclude Include="Circle.h" />
     <ClInclude Include="Parallelogram.h" />
+    <ClInclude Include="Pracktika.h" />
     <ClInclude Include="Quadrilateral.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="Trapezoid.h" />
